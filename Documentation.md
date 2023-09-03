@@ -1,5 +1,6 @@
 # Sure Library : Documentation 
-## Starting The Library
+## ◻ Starting The Library
 ```lua
-loadstrin
+loadstring
 ```
+### ◻ Making A Window 
